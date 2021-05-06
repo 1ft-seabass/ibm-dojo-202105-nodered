@@ -40,7 +40,7 @@ Node-RED UG 運営。[Node\-RED Con Tokyo 2020を10/10に開催しました](htt
 
 ## IBM Cloud での Node-RED の準備
 
-![image](https://gyazo.com/eb2dbf5923b68a4903fa522ab8e23fc6)
+![image](https://i.gyazo.com/eb2dbf5923b68a4903fa522ab8e23fc6.png)
 
 IBM Champion である [柿本さん](https://twitter.com/Kakimoty_Field) の書かれた [IBM Cloud で Node\-RED セットアップ \(2021年4月\) \- Qiita](https://qiita.com/Kakimoty_Field/items/ed30531445cafcb30a63) で Node-RED を使える環境を作成下さい。
 
