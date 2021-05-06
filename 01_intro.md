@@ -16,9 +16,9 @@ Node-RED は Node.js で動く仕組みです。Node-RED はサーバーとフ�
 
 IBM Cloud でセットアップされた Node-RED ではじめていきます。
 
-![image](https://i.gyazo.com/4952e648ed52462f44f4577c555528a5.png)
+![image](https://i.gyazo.com/eb2dbf5923b68a4903fa522ab8e23fc6.png)
 
-IBM Champion である [柿本さん](https://twitter.com/Kakimoty_Field)の書かれた[IBM Cloud で Node\-RED セットアップ \(2020年９月\) \- Qiita](https://qiita.com/Kakimoty_Field/items/ed30531445cafcb30a63) で Node-RED を使える環境をの作り方が参考になります。
+IBM Champion である [柿本さん](https://twitter.com/Kakimoty_Field) の書かれた [IBM Cloud で Node\-RED セットアップ \(2021年4月\) \- Qiita](https://qiita.com/Kakimoty_Field/items/ed30531445cafcb30a63) で Node-RED を使える環境をの作り方が参考になります。
 
 ## 動かしてみよう
 
