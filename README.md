@@ -2,7 +2,7 @@
 
 ![](https://connpass-tokyo.s3.amazonaws.com/thumbs/29/72/297295068f1a9941f246bba44d66e070.png)
 
-以前のリンク → [Champ Dojo \#4 Node\-RED で猫画像 API など色々な API につないでみよう \- connpass](https://ibm-developer.connpass.com/event/190248/)
+以前のリンク → [Champ Dojo Node\-RED で猫画像 API など色々な API につないでみよう \- connpass](https://ibm-developer.connpass.com/event/210720/)
 
 ## 自己紹介
 
