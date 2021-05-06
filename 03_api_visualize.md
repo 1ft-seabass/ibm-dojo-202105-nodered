@@ -109,7 +109,7 @@ payload の中の file という値ということで `payload.file` となり�
 
 ですが。大丈夫です。
 
-Node-RED は標準のノード群に [フロー検索（英語）]](https://flows.nodered.org/) で探して、追加することができます。
+Node-RED は標準のノード群に [フロー検索（英語）](https://flows.nodered.org/) で探して、追加することができます。
 
 * 参考文献
   * [パレットにノードを追加する : Node\-RED日本ユーザ会](https://nodered.jp/docs/user-guide/runtime/adding-nodes)
